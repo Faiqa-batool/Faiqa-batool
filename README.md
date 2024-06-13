@@ -4,7 +4,7 @@
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
 </p>
 
 
