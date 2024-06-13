@@ -31,3 +31,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></p>
 <br />
+
+## ➡️ Let's Connect:
+<a href = "https://www.linkedin.com/in/faiqa-batool-897b14250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
