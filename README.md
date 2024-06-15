@@ -32,7 +32,11 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></p>
 <br />
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en" alt="Faiqa-batool" /></p>
+<div align="center">
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en" alt="Faiqa-batool" /></p>
+
+</div>
+<br/>
 
 ## ➡️ Let's Connect:
 <div align="center"> 
