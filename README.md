@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=neon" alt="Faiqa-batool" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham" alt="Faiqa-batool" /></p>
 
 </div>
 <br/>
@@ -45,8 +45,11 @@
 </div>
 <br/>
 
+<div align="left">
 ## ➡️ Let's Connect:
 <div align="center"> 
   <a href = "https://www.linkedin.com/in/faiqa-batool-897b14250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</div>
 
 </div>
