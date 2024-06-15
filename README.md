@@ -3,9 +3,15 @@
 👩🏻‍🎓 Studying Computer Science at the (UBIT) University of Karachi, Pakistan<br/>
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
 
+### 📊 GitHub Stats
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0" alt="GitHub Streak" /></a>
 </p>
+<div align="center">
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
+
+</div>
 
 
 ### 💻 Languages and Tools
@@ -32,12 +38,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></p>
 <br />
 <br/>
-<div align="center">
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
 
-</div>
-<br/>
 <div align="center">
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
