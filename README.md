@@ -40,16 +40,16 @@
 <br/>
 <div align="center">
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut-vertical&theme=gotham" alt="Faiqa-batool" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut-vertical&theme=gotham" alt="Faiqa-batool" /></p>
 
 </div>
 <br/>
 
-<div align="left">
+
 ## ➡️ Let's Connect:
 <div align="center"> 
   <a href = "https://www.linkedin.com/in/faiqa-batool-897b14250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </div>
 
-</div>
+
