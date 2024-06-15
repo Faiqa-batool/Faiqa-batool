@@ -48,6 +48,19 @@
 </div>
 <br/>
 
+## 📊 GitHub Trophies:
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=Faiqa-batool&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+    </div>
+    <div>
+      <br>
+        <p align="left">
+            <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=0e75b6&style=flat" alt="Faiqa-batool" />
+        </p>
+    </div>
+</div>
+
 
 ## ➡️ Let's Connect:
 <div align="center"> 
