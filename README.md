@@ -48,7 +48,7 @@
 </div>
 <br/>
 
-## 📊 GitHub Trophies:
+## 🏆 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=Faiqa-batool&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
