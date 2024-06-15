@@ -33,7 +33,7 @@
 <br />
 <br/>
 <div align="center">
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=neon" alt="Faiqa-batool" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=ambient_gradient" alt="Faiqa-batool" /></p>
 
 </div>
 <br/>
