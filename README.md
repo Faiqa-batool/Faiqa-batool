@@ -52,7 +52,7 @@
 
 <div align="center">
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut&theme=gotham&hide_border=true&border_radius=4.9&lang_count=6" alt="Faiqa-batool" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6" alt="Faiqa-batool" /></p>
 
 </div>
 <br/>
