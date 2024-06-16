@@ -3,6 +3,10 @@
 👩🏻‍🎓 Studying Computer Science at the (UBIT) University of Karachi, Pakistan<br/>
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=0e75b6&style=flat" alt="Faiqa-batool" />
+</p>
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -55,9 +59,7 @@
     </div>
     <div>
       <br>
-        <p align="left">
-            <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=0e75b6&style=flat" alt="Faiqa-batool" />
-        </p>
+        
     </div>
 </div>
 
