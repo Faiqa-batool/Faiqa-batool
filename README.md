@@ -55,6 +55,7 @@
   <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
 </p>
 <br/>
+
 ## ➡️ Let's Connect:
 <div align="center"> 
   <a href = "https://www.linkedin.com/in/faiqa-batool-897b14250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
