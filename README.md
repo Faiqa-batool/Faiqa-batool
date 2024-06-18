@@ -13,6 +13,10 @@
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
 
 </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
+</p>
+<br/>
 
 
 ## 💻 Languages and Tools:
@@ -51,10 +55,7 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="Faiqa-batool" /></p>
 
 </div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
-</p>
-<br/>
+
 
 ## ➡️ Let's Connect:
 <div align="center"> 
