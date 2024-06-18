@@ -14,7 +14,7 @@
 
 </div>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
+  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=ff69b4&style=plastic" alt="Faiqa-batool" />
 </p>
 <br/>
 
