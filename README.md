@@ -4,11 +4,6 @@
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
 📩 Reach me through email:<a href="faiqa.b48@gmail.com">faiqa.b48@gmail.com</a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
-  <img https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
-  <img src="" />
-</p>
 
 ## 📊 GitHub Stats:
 
@@ -58,10 +53,10 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqa-batool&show_icons=true&locale=en&layout=donut&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="Faiqa-batool" /></p>
 
 </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=blueviolet&style=plastic" alt="Faiqa-batool" />
+</p>
 <br/>
-
-
-
 
 ## ➡️ Let's Connect:
 <div align="center"> 
