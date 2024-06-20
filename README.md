@@ -65,7 +65,7 @@
 ## 💻 Coding Profiles:
 
 <p align="center">  
-  <a href="https://leetcode.com/Maham31/">
+  <a href="https://leetcode.com/FaiqaBatool/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
   </a>
 </p>
