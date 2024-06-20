@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Faiqa Batool!</h1>
 <h3 align="center">MERN Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
+<br/>
 👩🏻‍💻 A MERN Stack developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Computer Science at the (UBIT) University of Karachi, Pakistan<br/>
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
