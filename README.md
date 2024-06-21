@@ -10,6 +10,8 @@
 👩🏻‍🎓 Studying Computer Science at the (UBIT) University of Karachi, Pakistan<br/>
 
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
+
+📫 How to reach me **faiqa.b48@gmail.com**
 </p>
  <br/>
 
