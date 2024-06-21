@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I'm Faiqa Batool!</h1>
 <h3 align="center">MERN Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
-<div>
+
+<img  align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyYXM4b3ZxMGQwOWtxZ3luMXBtYTVodWk2dzBhd2lyd25kbWF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 <p align="left">
 👩🏻‍💻 A MERN Stack developer sharing about my journey and learnings in tech<br/>
   
@@ -9,9 +11,9 @@
 
 💭 Currently learning about data Science and trying to be proficient in MERN!<br/>
 </p>
- <img  align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyYXM4b3ZxMGQwOWtxZ3luMXBtYTVodWk2dzBhd2lyd25kbWF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+ 
 
-</div>
+
 ## 📊 GitHub Stats:
 
 <p align="center">
