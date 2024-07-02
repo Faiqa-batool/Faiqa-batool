@@ -1,4 +1,5 @@
-<img align="center" src="![github-header-image](https://github.com/Faiqa-batool/Faiqa-batool/assets/115587465/8cbe4f16-32d2-4eef-abc9-e40c73bb2f0c)" >
+![github-header-image](https://github.com/Faiqa-batool/Faiqa-batool/assets/115587465/74c6a848-0688-4ca4-8a4f-c6da85348665)
+
 
 <h1 align="center">👋 Hi, I'm Faiqa Batool!</h1>
 <h3 align="center">MERN Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
