@@ -1,4 +1,6 @@
-![github-header-image](https://github.com/Faiqa-batool/Faiqa-batool/assets/115587465/74c6a848-0688-4ca4-8a4f-c6da85348665)
+<div align="center">
+  <img src="https://github.com/Faiqa-batool/Faiqa-batool/assets/115587465/74c6a848-0688-4ca4-8a4f-c6da85348665" alt="github-header-image">
+</div>
 
 
 <h1 align="center">👋 Hi, I'm Faiqa Batool!</h1>
