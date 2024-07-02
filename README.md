@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">👋 Hi, I'm Faiqa Batool!</h1>
 <h3 align="center">MERN Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
