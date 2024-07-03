@@ -10,7 +10,7 @@
 <img  align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyYXM4b3ZxMGQwOWtxZ3luMXBtYTVodWk2dzBhd2lyd25kbWF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left">
-👩🏻‍💻 A MERN Stack developer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 A Full Stack developer sharing about my journey and learnings in tech<br/>
   
 👩🏻‍🎓 Studying Computer Science at the (UBIT) University of Karachi, Pakistan<br/>
 
