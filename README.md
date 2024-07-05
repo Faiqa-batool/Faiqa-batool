@@ -83,4 +83,4 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faiqa-batool&line=fc0fc0&color=ff0081)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faiqa-batool&theme=react_dark&line=fc0fc0&color=ff0081)](https://github.com/ashutosh00710/github-readme-activity-graph)
