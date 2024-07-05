@@ -83,3 +83,4 @@
 </div>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faiqa-batool&bg_color=pink&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
