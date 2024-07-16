@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center"> Hi👋, I'm Faiqa Batool!</h1>
+<h1 align="center"> Hi👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faiqa Batool!</h1>
 <h3 align="center">Full Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
 
