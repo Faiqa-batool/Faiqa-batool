@@ -25,7 +25,7 @@
 <p align="left" width="350">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0&fire=skyblue" alt="GitHub Streak" /></a>
 </p>
-<div align="right">
+<div align="right"  width="350">
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
 
