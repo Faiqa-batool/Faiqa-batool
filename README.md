@@ -68,7 +68,7 @@
 
 </div>
 
-## 💻 Coding Profiles:
+## 👩🏻‍💻 Coding Profiles:
 
 <p align="center">  
   <a href="https://leetcode.com/FaiqaBatool/">
