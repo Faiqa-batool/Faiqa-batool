@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0&fire=skyblue" alt="GitHub Streak" /></a>
 </p>
 <div align="center">
