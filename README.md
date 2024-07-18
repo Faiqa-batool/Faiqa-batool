@@ -22,13 +22,14 @@
 
 
 ## 📊 GitHub Stats:
-<p align="left" width="50%">
+
+<div align="right"  width="50%">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0&fire=skyblue" alt="GitHub Streak" /></a>
-</p>
+</div>
 <div align="right"  width="50%">
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
-
 </div>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Faiqa-batool&label=Profile%20views&color=ff69b4&style=plastic" alt="Faiqa-batool" />
 </p>
