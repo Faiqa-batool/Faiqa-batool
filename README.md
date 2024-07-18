@@ -3,7 +3,7 @@
 </div>
 
 
-<h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Faiqa Batool!</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Faiqa Batool!</h1>
 <h3 align="center">Full Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0&fire=skyblue" alt="GitHub Streak" /></a>
 </p>
-<div align="center">
+<div align="right">
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
 
