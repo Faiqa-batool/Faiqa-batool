@@ -22,10 +22,10 @@
 
 
 ## 📊 GitHub Stats:
-<p align="left" width="300">
+<p align="left" width="50%">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqa-batool&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0&fire=skyblue" alt="GitHub Streak" /></a>
 </p>
-<div align="right"  width="300">
+<div align="right"  width="50%">
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Faiqa-batool&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="Faiqa-batool" /></p>
 
 </div>
