@@ -6,7 +6,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Faiqa Batool!</h1>
 <h3 align="center">Full Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
-gdshsbshbj ndbshuwed jd jhanxa
+gdshsbshbj ndbshuwed jd 
 <img  align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyYXM4b3ZxMGQwOWtxZ3luMXBtYTVodWk2dzBhd2lyd25kbWF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left">
