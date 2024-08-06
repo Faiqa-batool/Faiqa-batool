@@ -1,7 +1,7 @@
 <div align="center" >
   <img src="https://github.com/Faiqa-batool/Faiqa-batool/assets/115587465/74c6a848-0688-4ca4-8a4f-c6da85348665" alt="github-header-image">
 </div>
-ghgh
+
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Faiqa Batool!</h1>
 <h3 align="center">Full Stack Developer | Python Programmmer | C++ Programmmer | Data Science Enthusiast</h3>
 <br/>
